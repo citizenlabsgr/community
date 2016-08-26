@@ -9,7 +9,7 @@ If you're unsure or afraid of anything, just ask or submit the issue or pull req
 # Information & Resources
 
 - [Welcome:](https://github.com/citizenlabsgr/community/blob/master/welcome/README.md) Resources for those new to Citizen Labs.
-- Governance: Learn more about how our community is organized.
+- [Governance:](https://github.com/citizenlabsgr/community/tree/master/governance) Learn more about how our community is organized.
 - [Code of Conduct](https://github.com/citizenlabsgr/community/blob/master/coc.md)
 
 # License
