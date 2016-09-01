@@ -12,6 +12,7 @@ If you're unsure or afraid of anything, just ask or submit the issue or pull req
 
 - [Welcome:](https://github.com/citizenlabsgr/community/blob/master/welcome/README.md) Resources for those new to Citizen Labs.
 - [Governance:](https://github.com/citizenlabsgr/community/tree/master/governance) Learn more about how our community is organized.
+  - [Bylaws:](https://github.com/citizenlabsgr/community/blob/master/governance/cl_bylaws.md)
 - [Code of Conduct](https://github.com/citizenlabsgr/community/blob/master/coc.md)
 
 # License
