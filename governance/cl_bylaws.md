@@ -102,5 +102,5 @@ Amendments shall be made as needed and approved by a supermajority (greater than
 
 **ACCEPTED BY MAJORITY VOTE**
 
-
+*BODY:* Citizen Labs Interim Board of Directors
 DATE: 8/30/2016
