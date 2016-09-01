@@ -103,4 +103,6 @@ Amendments shall be made as needed and approved by a supermajority (greater than
 **ACCEPTED BY MAJORITY VOTE**
 
 
-CHAIRMAN: Allen Clark                                                    			DATE: 8/30/2016
+CHAIRMAN: Allen Clark                                                    			
+
+DATE: 8/30/2016
