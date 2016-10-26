@@ -15,6 +15,9 @@ If you're unsure or afraid of anything, just ask or submit the issue or pull req
   - [Bylaws](https://github.com/citizenlabsgr/community/blob/master/governance/cl_bylaws.md)
   - [Board Minutes](https://github.com/citizenlabsgr/community/tree/master/governance/bd_minutes)
 - [Code of Conduct](https://github.com/citizenlabsgr/community/blob/master/coc.md)
+- [Community Wiki](https://github.com/citizenlabsgr/community/wiki)
+  - [501c3 Status Resources](https://github.com/citizenlabsgr/community/wiki/501c3-Status-Resources)
+  - [How to Start a Non Profit in Michigan](https://github.com/citizenlabsgr/community/wiki/How-to-Start-a-Non-Profit-in-Michigan)
 
 # License
-Read our license based on the MIT license.
+[Read our license](https://github.com/citizenlabsgr/community/blob/master/license.md) based on the MIT license.
