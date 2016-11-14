@@ -1,7 +1,7 @@
 [![Stories in Ready](https://badge.waffle.io/citizenlabsgr/community.svg?label=ready&title=Ready)](http://waffle.io/citizenlabsgr/community)
 
 # Community
-We will use this space to share information and and provide resources for members of Citizen Labs.
+We will use this space to share information and provide resources for members of Citizen Labs.
 
 # How To Participate
 We welcome the participation of everyone in contributing to improving Citizen Labs and our community. To maintain our positive community we require all participants to follow our [Code of Conduct](https://github.com/citizenlabsgr/community/blob/master/coc.md). Please make sure you read our [Code of Conduct](https://github.com/citizenlabsgr/community/blob/master/coc.md) before participating.
