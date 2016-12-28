@@ -6,7 +6,7 @@
 ### Article I
 
 
-The name of this corporation shall be Citizen Labs. The business of the corporation may be conducted as Citizen Labs GR or Citizen Labs Grand Rapids.
+The name of this corporation shall be Citizen Labs.
 
 
 ### Article II
@@ -30,6 +30,7 @@ The Corporation is to be financed under the following general plan: dues, charit
 The Corporation is organized on a directorship basis. It may (but need not) have voting members, and such membership (if any) and classes thereof shall be as defined in The Corporation’s bylaws.
 
 The management and affairs of The Corporation shall be at all times under the direction of the Board of Directors, whose operations in governing The Corporation shall be defined by statute and by The Corporation’s bylaws. No member or director shall have any right, title, or interest in, or to any property of The Corporation.
+
 
 
 ### Article IV
@@ -68,6 +69,5 @@ In the event of the dissolution of The Corporation and after paying all liabilit
 
 These amended articles were duly adopted on the 11 day of November, 2016 by The Corporation’s board of directors in accordance with the provisions of Act 162 of Michigan Public Acts of 1982. The necessary number of votes was cast in favor of these articles of incorporation.
 
-The directors of The Corporation prepared this document.
 
-
+The directors of The Corporation prepared this document this 6th day of December, 2016.
