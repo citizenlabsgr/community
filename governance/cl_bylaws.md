@@ -8,11 +8,11 @@ The name of this organization shall be “Citizen Labs.”
 
 ### Section 1.2	Mission
 
-To work together with our community to use open data and open source technology to promote transparency, better understand problems, make better choices, and provide solutions that work.
+Citizen Labs works together with our entire community to promote transparency, better understand problems, and support informed decisions. We apply open data and open source technology, convene civic volunteers, and engage community leadership to create data-driven solutions.
 
-## ARTICLE II.	MEMBERSHIP
+## ARTICLE II.	Participation
 
-Citizen Labs membership is open to all individuals, non-profit organizations, public agencies, and all other interested parties.
+Citizen Labs participiation is open to all individuals, non-profit organizations, public agencies, and all other interested parties.
 
 ## ARTICLE III.	BOARD OF DIRECTORS
 
@@ -30,11 +30,11 @@ The Board of Directors shall have authority to conduct the affairs of the organi
 
 ### Section 3.4	Meetings
 
-Regular meetings of the Board of Directors shall be held at the place and time designated by the Board of Directors including phone conference calls, electronic communication, monthly or annual meetings, or otherwise called by a majority of the Board of Directors. Minutes of all meetings shall be made publicly available to all members.
+Regular meetings of the Board of Directors shall be held at the place and time designated by the Board of Directors including phone conference calls, electronic communication, monthly or annual meetings, or otherwise called by a majority of the Board of Directors. Minutes of all meetings shall be made available.
 
 ### Section 3.5	Special Meetings
 
-Special meetings may be called by the Chair of the Board of Directors or a majority of the Board of Directors. Persons authorized to call special meetings shall provide notice of the time and location of such meetings and state the purpose thereof, and no other matter shall be considered by the Board of Directors at such special meeting except upon unanimous vote of all Directors present. Minutes of all meetings shall be made public available to all members.
+Special meetings may be called by the Chair of the Board of Directors or a majority of the Board of Directors. Persons authorized to call special meetings shall provide notice of the time and location of such meetings and state the purpose thereof, and no other matter shall be considered by the Board of Directors at such special meeting except upon unanimous vote of all Directors present. Minutes of all meetings shall be made available.
 
 ### Section 3.6	Electronic Communication
 
@@ -54,7 +54,7 @@ Any Director may be removed by majority vote of the remaining Directors for fail
 
 ### Section 3.10	Organization Representation
 
-Unless otherwise authorized by the Board of Directors, No Director or Member, other than the Chair may speak in the name of the organization without prior authorization from the Board of Directors.
+Unless otherwise authorized by the Board of Directors, No Director or Member, or Participant, other than the Chair may speak in the name of the organization without prior authorization from the Board of Directors.
 
 ### Section 3.11	Director Role
 
@@ -64,7 +64,7 @@ A Director may attend the meetings of the Board of Directors, and vote upon ques
 
 ### Section 4.1	List of Officers
 
-Organization officers shall be the Chair, Vice Chair, Treasurer, and Secretary.
+The primary officer of the organization shall be the Chair, unless otherwise designated by the Board. Depending on the needs of the organization, additional officers may be appointed by the board.
 
 ### # Section 4.2	Officer Election
 
@@ -76,14 +76,14 @@ The Board of Directors, by simple majority, may appoint members who do not serve
 
 ### Section 4.4	Agenda
 
-The Chair shall set the agenda for each meeting of the Organization, preside over meetings of the Board of Directors, supervise preparation of reports or documents as required to meet the interests of the organization.
+The Chair shall set the agenda for each meeting of the Organization, preside over meetings of the Board of Directors, supervise preparation of reports or documents as required to meet the interests of the organization. Any director may submit agenda items for consideration to the Chair.
 
 ### Section 4.5	Duties of Officers
 
-Chairperson. The Chairperson shall preside over all meetings, execute meeting agendas,
-Vice Chairperson. The Vice Chairperson shall act for the Chairperson in his/her absence.
-Treasurer. The Treasurer shall review and keep all records of the organization’s financial transactions and situations.
-Secretary. The Secretary shall keep minutes, submit meeting notices, maintain records of attendance. and make reports as directed by the Board of Directors.
+- Chairperson: The Chairperson shall preside over all meetings, execute meeting agenda.
+- Vice Chairperson: The Vice Chairperson shall act for the Chairperson in his/her absence.
+- Treasurer: The Treasurer shall review and keep all records of the organization’s financial transactions and situations.
+- Secretary: The Secretary shall keep minutes, submit meeting notices, maintain records of attendance. and make reports as directed by the Board of Directors.
 
 ### Section 4.6	Removal of Officers
 
@@ -100,7 +100,7 @@ These policies and procedures shall be adopted when approved by a majority of th
 Amendments shall be made as needed and approved by a supermajority (greater than 66%) of the Board of Directors.
 
 
-**ACCEPTED BY MAJORITY VOTE**
+**ACCEPTED BY UNANIMOUS VOTE**
 
-*BODY:* Citizen Labs Interim Board of Directors
-DATE: 8/30/2016
+*BODY:* Citizen Labs Board of Directors
+DATE: 12/13/2016
