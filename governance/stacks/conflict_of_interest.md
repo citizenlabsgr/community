@@ -1,11 +1,22 @@
-
-# Conflict of Interest
+# DRAFT: Conflict of Interest
 
 ## Our Inspiration
 Transparency is a core principal of Citizen Labs. The purpose of the conflict of interest policy is to protect Citizen Labs’ interest when it is contemplating a transaction or arrangement that might benefit the private interest of an officer or director of the Citizen Labs or might result in a possible excess benefit transaction (determined by IRS).
 
 
 ## Method: Conflict of Interest
+
+For purposes of this provision, the term "interest" shall include personal interest, interest as director, officer, member, stockholder, shareholder, partner, manager, trustee or beneficiary of any concern and having an immediate family member who holds such an interest in any concern. The term "concern" shall mean any corporation, association, trust, partnership, limited liability entity, firm, person or other entity other than the organization.
+
+No director or officer of the organization shall be disqualified from holding any office in the organization by reason of any interest in any concern. A director or officer of the organization shall not be disqualified from dealing, either as vendor, purchaser or otherwise, or contracting or entering into any other transaction with the organization or with any entity of which the organization is an affiliate. No transaction of the organization shall be voidable by reason of the fact that any director or officer of the organization has an interest in the concern with which such transaction is entered into, provided:
+
+The interest of such officer or director is fully disclosed to the board of directors.
+Such transaction is duly approved by the board of directors not so interested or connected as being in the best interests of the organization.
+Payments to the interested officer or director are reasonable and do not exceed fair market value.
+No interested officer or director may vote or lobby on the matter or be counted in determining the existence of a quorum at the meeting at which such transaction may be authorized.
+The minutes of meetings at which such votes are taken shall record such disclosure, abstention, and rationale for approval.
+
+
 
 
 DEFINITIONS
