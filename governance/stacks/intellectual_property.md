@@ -7,3 +7,5 @@ Transparency and the application of open source technologies are core principals
 It is important that contributing individuals of Citizen Labs understand when how the open sourced projects impact the Intellectual Property Rights of Citizen Labs and the individual contributor.
 
 ## Method: Intellectual Property Rights
+
+Every Citizen Labs project repository should include a license that clearly states the overall licensing rules of the project and final product.
