@@ -6,6 +6,7 @@ Under what circumstances should board vote:
 * Expenditures above a threshold / two signatures above a threshold. 
 * Dispute resolution. 
 * Contractually binding the organization to any person or party.
+* Adopting or adjusting policies and procedures. 
 
 When is it not appropriate: 
 * Expenditures within budget and below threshold. 
