@@ -1,9 +1,11 @@
 
-##Our Inspiration
+# Conflict of Interest
+
+## Our Inspiration
 Transparency is a core principal of Citizen Labs. The purpose of the conflict of interest policy is to protect Citizen Labs’ interest when it is contemplating a transaction or arrangement that might benefit the private interest of an officer or director of the Citizen Labs or might result in a possible excess benefit transaction (determined by IRS).
 
 
-##Method: Conflict of Interest
+## Method: Conflict of Interest
 
 
 DEFINITIONS
