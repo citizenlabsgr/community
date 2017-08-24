@@ -1,8 +1,6 @@
 ## ARTICLES OF INCORPORATION OF CITIZEN LABS
 
 
-
-
 ### Article I
 
 
