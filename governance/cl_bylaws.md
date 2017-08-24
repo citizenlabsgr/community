@@ -12,7 +12,7 @@ Citizen Labs works together with our entire community to promote transparency, b
 
 ## ARTICLE II.	Participation
 
-Citizen Labs participiation is open to all individuals, non-profit organizations, public agencies, and all other interested parties.
+Citizen Labs participation is open to all individuals, non-profit organizations, public agencies, and all other interested parties.
 
 ## ARTICLE III.	BOARD OF DIRECTORS
 
