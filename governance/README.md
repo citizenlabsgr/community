@@ -9,3 +9,4 @@
   - [DRAFT: Intellectual Property](https://github.com/citizenlabsgr/community/blob/master/governance/stacks/intellectual_property.md)
   - [DRAFT: Donations](https://github.com/citizenlabsgr/community/blob/master/governance/stacks/donations.md)
 - [Code of Conduct](https://github.com/citizenlabsgr/community/blob/master/coc.md)
+- [Financials](https://github.com/citizenlabsgr/community/blob/master/coc.md)
