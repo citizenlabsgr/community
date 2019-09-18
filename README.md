@@ -1,4 +1,3 @@
-[![Stories in Ready](https://badge.waffle.io/citizenlabsgr/community.svg?label=ready&title=Ready)](http://waffle.io/citizenlabsgr/community)
 
 # Community
 We will use this space to share information and provide resources for members of Citizen Labs.
