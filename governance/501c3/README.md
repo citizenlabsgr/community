@@ -8,4 +8,4 @@
 
 # Code of Conduct
 
-We welcome the participation of everyone in contributing to improving Citizen Labs and our community. To maintain our positive community we require all participants to follow our [Code of Conduct](https://github.com/citizenlabsgr/community/blob/master/coc.md). Please make sure you read our [Code of Conduct](https://github.com/citizenlabsgr/community/blob/master/coc.md) before participating.
+We welcome the participation of everyone in contributing to improving Citizen Labs and our community. To maintain our positive community we require all participants to follow our [Code of Conduct](https://github.com/citizenlabsgr/community/blob/main/coc.md). Please make sure you read our [Code of Conduct](https://github.com/citizenlabsgr/community/blob/main/coc.md) before participating.
