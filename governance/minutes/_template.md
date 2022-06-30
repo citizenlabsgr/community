@@ -1,14 +1,16 @@
-## DRAFT Board Meeting Minutes
+# DRAFT Board Meeting Minutes
+
 ### XX XXXXXXX 2020 @ 6:30pm / ONLINE @ #board-meetings
 
 ## AGENDA
 
-
 ### CALL TO ORDER
+
 Present:
 Not Present:
 
 ### APPROVAL OF MINUTES
+
 **Last Meeting Follow-up**: Conversations and actions can be found on Slack and previous board meeting minutes, #board-meetings
  - [Previous Board Meeting](Link to previous minutes)
 
@@ -17,6 +19,7 @@ Not Present:
  - Against: none
 
 ### OFFICER REPORTS
+
 [2017 Mission Metrics](https://docs.google.com/spreadsheets/d/1Tzme6WZeo0oJ-iRoUB4Pr8DhoMGiBHZNyeV0Pr0l98I/edit#gid=1234716011) that identified strategies, action plans, and objectives.
 
 **Chair, Allen:**
