@@ -7,6 +7,7 @@
 ### CALL TO ORDER
 
 Present:
+
 Not Present:
 
 ### APPROVAL OF MINUTES
