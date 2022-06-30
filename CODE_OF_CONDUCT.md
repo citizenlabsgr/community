@@ -1,6 +1,7 @@
 ## Citizen Labs Code of Conduct
 
 ### Respect
+
 Citizen Labs is an intentionally positive community: that recognizes and celebrates creativity; collaboration of independent creators (and independence); and the diversity of people, cultures, and opinions that are a core strength of Citizen Labs.
 
 Citizen Labs spaces are an inclusive environment, based on treating all individuals respectfully, regardless of gender identity, sexual orientation, age, disability, medical conditions, nationality, ethnicity, religion (or lack thereof), physical appearance, or technology preferences.
@@ -8,6 +9,7 @@ Citizen Labs spaces are an inclusive environment, based on treating all individu
 We value respectful behavior above individual opinions. We expect all participants to behave respectfully and follow these rules in Citizen Labs’ activities, events, and digital forums.
 
 Respectful behavior includes:
+
 - Be considerate, kind, constructive, and helpful.
 - Presume the value of others. Everyone’s ideas, skills, and contributions have value.
 - Don’t assume everyone has the same context, and encourage questions.
@@ -23,6 +25,7 @@ Respectful behavior includes:
 - If you're not sure, ask someone instead of assuming.
 
 ### Harassment
+
 Harassment includes intentional behavior which is found threatening or disturbing.
 
 Harassment includes, but is not limited to:
@@ -38,6 +41,7 @@ Harassment includes, but is not limited to:
 Sponsors are also subject to the anti-harassment policy.
 
 ### Resolve Peacefully
+
 We believe peer to peer discussions, feedback, corrections can help build a stronger, safer, and more welcoming community.
 
 If you see someone behaving disrespectfully, you are encouraged to respectfully discourage them from such behavior. Expect that others in the community wish to help keep the community respectful and welcome your input in doing so.
@@ -59,9 +63,11 @@ You can reach me at (CONTACT INFO). Thank you.
 ```
 
 ### Apologize for Mistakes
+
 Should you catch yourself behaving disrespectfully, or be confronted as such, own up to your words and actions, and apologize accordingly. No one is perfect, and even well-intentioned people make mistakes. What matters is how you handle them, and avoiding repeating them in the future.
 
 ### Consequences
+
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
 If a participant engages in harassing behavior, organizers may take any action they deem appropriate, including warning the offender or expulsion from Citizen Labs’ activities, events, and digital forums without warning or refund.
@@ -78,4 +84,4 @@ As organizers, we will seek to resolve conflicts peacefully and in a manner that
 - [IndieWebCamp](https://indieweb.org/code-of-conduct)
 - [Geek Feminism Wiki's Conference anti-harassment/Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
 - [Code for America](https://github.com/codeforamerica/codeofconduct)
-- [Barcamp GR](http://barcampgr.org/code-of-conduct/)
+- [BarCamp GR](http://barcampgr.org/code-of-conduct/)
