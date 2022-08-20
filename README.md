@@ -15,7 +15,7 @@ If you're unsure or afraid of anything, just ask or submit the issue or pull req
   - [Bylaws](https://github.com/citizenlabsgr/community/blob/main/governance/cl_bylaws.md)
   - [Board Minutes](https://github.com/citizenlabsgr/community/tree/main/governance/bd_minutes)
   - [Articles of Incorporation](https://github.com/citizenlabsgr/community/blob/main/governance/articles_incorporation.md)
- - [Code of Conduct](https://github.com/citizenlabsgr/community/blob/main/coc.md)
+ - [Code of Conduct](https://github.com/citizenlabsgr/community/blob/main/CODE_OF_CONDUCT.md)
  - [Methods](https://github.com/citizenlabsgr/community/tree/main/governance/stacks)
 - [Community Wiki](https://github.com/citizenlabsgr/community/wiki)
   - [501c3 Status Resources](https://github.com/citizenlabsgr/community/wiki/501c3-Status-Resources)
