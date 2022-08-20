@@ -23,4 +23,4 @@ If you're unsure or afraid of anything, just ask or submit the issue or pull req
 
 # License
 
-[Read our license](https://github.com/citizenlabsgr/community/blob/main/license.md) based on the MIT license.
+[Read our license](https://github.com/citizenlabsgr/community/blob/main/LICENSE.md) based on the MIT license.
