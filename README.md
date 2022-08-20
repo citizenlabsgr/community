@@ -19,7 +19,7 @@ If you're unsure or afraid of anything, just ask or submit the issue or pull req
  - [Methods](https://github.com/citizenlabsgr/community/tree/main/governance/stacks)
 - [Community Wiki](https://github.com/citizenlabsgr/community/wiki)
   - [501c3 Status Resources](https://github.com/citizenlabsgr/community/wiki/501c3-Status-Resources)
-  - [How to Start a Non Profit in Michigan](https://github.com/citizenlabsgr/community/wiki/How-to-Start-a-Non-Profit-in-Michigan)
+  - [How to Start a Non Profit in Michigan](https://github.com/citizenlabsgr/opensourced-nonprofit)
 
 # License
 
