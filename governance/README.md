@@ -1,6 +1,6 @@
 # Governance
 
-- [Agenda/Minutes of Board of Directors](https://github.com/citizenlabsgr/community/tree/main/governance/bd_minutes)
+- [Agenda/Minutes of Board of Directors](https://github.com/citizenlabsgr/community/tree/main/governance/minutes)
 - [Bylaws](https://github.com/citizenlabsgr/community/blob/main/governance/bylaws.md)
 - [Articles of Incorporation](https://github.com/citizenlabsgr/community/blob/main/governance/articles_of_incorporation.md)
 - Method Stacks
